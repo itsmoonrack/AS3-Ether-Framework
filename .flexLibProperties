@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="3">
+  <includeClasses>
+    <classEntry path="uiether.components.Button"/>
+    <classEntry path="uiether.components.HSlider"/>
+    <classEntry path="uiether.components.Image"/>
+    <classEntry path="uiether.components.ToggleButton"/>
+    <classEntry path="uiether.components.VSlider"/>
+    <classEntry path="uiether.components.imageClasses.Slideshow"/>
+    <classEntry path="uiether.components.supportClasses.ButtonBase"/>
+    <classEntry path="uiether.components.supportClasses.Range"/>
+    <classEntry path="uiether.components.supportClasses.TrackBase"/>
+    <classEntry path="uiether.core.UIComponent"/>
+    <classEntry path="uiether.events.ComponentEvent"/>
+    <classEntry path="uiether.events.TrackBaseEvent"/>
+    <classEntry path="uiether.formatters.TinyHTMLFormatter"/>
+    <classEntry path="org.robotlegs.adapters.SwiftSuspendersInjector"/>
+    <classEntry path="org.robotlegs.adapters.SwiftSuspendersReflector"/>
+    <classEntry path="org.robotlegs.base.CommandMap"/>
+    <classEntry path="org.robotlegs.base.ContextBase"/>
+    <classEntry path="org.robotlegs.base.ContextError"/>
+    <classEntry path="org.robotlegs.base.ContextEvent"/>
+    <classEntry path="org.robotlegs.base.EventMap"/>
+    <classEntry path="org.robotlegs.base.MediatorBase"/>
+    <classEntry path="org.robotlegs.base.MediatorMap"/>
+    <classEntry path="org.robotlegs.base.ViewMap"/>
+    <classEntry path="org.robotlegs.base.ViewMapBase"/>
+    <classEntry path="org.robotlegs.core.ICommandMap"/>
+    <classEntry path="org.robotlegs.core.IContext"/>
+    <classEntry path="org.robotlegs.core.IContextProvider"/>
+    <classEntry path="org.robotlegs.core.IEventMap"/>
+    <classEntry path="org.robotlegs.core.IInjector"/>
+    <classEntry path="org.robotlegs.core.IMediator"/>
+    <classEntry path="org.robotlegs.core.IMediatorMap"/>
+    <classEntry path="org.robotlegs.core.IReflector"/>
+    <classEntry path="org.robotlegs.core.IViewMap"/>
+    <classEntry path="org.robotlegs.mvcs.Actor"/>
+    <classEntry path="org.robotlegs.mvcs.Command"/>
+    <classEntry path="org.robotlegs.mvcs.Context"/>
+    <classEntry path="org.robotlegs.mvcs.Mediator"/>
+    <classEntry path="ether.media.SoundPlayer"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
