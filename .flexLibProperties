@@ -4,12 +4,14 @@
     <classEntry path="uiether.components.Button"/>
     <classEntry path="uiether.components.HSlider"/>
     <classEntry path="uiether.components.Image"/>
+    <classEntry path="uiether.components.LabelButton"/>
     <classEntry path="uiether.components.ToggleButton"/>
     <classEntry path="uiether.components.VSlider"/>
     <classEntry path="uiether.components.imageClasses.Slideshow"/>
     <classEntry path="uiether.components.supportClasses.ButtonBase"/>
     <classEntry path="uiether.components.supportClasses.Range"/>
     <classEntry path="uiether.components.supportClasses.TrackBase"/>
+    <classEntry path="uiether.components.textClasses.CurveText"/>
     <classEntry path="uiether.core.UIComponent"/>
     <classEntry path="uiether.events.ComponentEvent"/>
     <classEntry path="uiether.events.TrackBaseEvent"/>
