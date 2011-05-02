@@ -1,4 +1,4 @@
-package uiether.components.imageClasses
+package fr.wedesign.components.imageClasses
 {
   import flash.display.Bitmap;
   import flash.display.Loader;
@@ -8,11 +8,11 @@ package uiether.components.imageClasses
   import flash.net.URLRequest;
   import flash.utils.Timer;
   
-  import uiether.components.Image;
-  import uiether.core.UIComponent;
-  import uiether.events.ComponentEvent;
+  import fr.wedesign.components.Image;
+  import fr.wedesign.core.UIComponent;
+  import fr.wedesign.events.ComponentEvent;
   
-  [Event(name="show",type="uiether.events.ComponentEvent")]
+  [Event(name="show",type="fr.wedesign.events.ComponentEvent")]
   
   public final class Slideshow extends Sprite
   {

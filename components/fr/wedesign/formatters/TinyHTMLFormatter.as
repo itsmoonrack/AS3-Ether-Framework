@@ -3,7 +3,7 @@
  * @class:		uiether.formatters.TinyHTMLFormatter
  * @date:		25 avr. 2010
  */
-package uiether.formatters
+package fr.wedesign.formatters
 {
     public class TinyHTMLFormatter
     {

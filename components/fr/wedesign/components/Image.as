@@ -3,14 +3,14 @@
  * @class:		uiether.components.Image
  * @date:		21 avr. 2010
  */
-package uiether.components
+package fr.wedesign.components
 {
   import flash.display.Bitmap;
   import flash.display.Loader;
   import flash.events.Event;
   import flash.net.URLRequest;
   
-  import uiether.core.UIComponent;
+  import fr.wedesign.core.UIComponent;
   
   [Event(name="complete",type="flash.events.Event")]
   

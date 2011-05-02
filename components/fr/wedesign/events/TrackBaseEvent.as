@@ -3,7 +3,7 @@
  * @class:		uiether.events.TrackBaseEvent
  * @date:		24 avr. 2010
  */
-package uiether.events
+package fr.wedesign.events
 {
     import flash.events.Event;
     

@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <flexLibProperties includeAllClasses="false" version="3">
   <includeClasses>
-    <classEntry path="uiether.components.Button"/>
-    <classEntry path="uiether.components.HSlider"/>
-    <classEntry path="uiether.components.Image"/>
-    <classEntry path="uiether.components.LabelButton"/>
-    <classEntry path="uiether.components.ToggleButton"/>
-    <classEntry path="uiether.components.VSlider"/>
-    <classEntry path="uiether.components.imageClasses.Slideshow"/>
-    <classEntry path="uiether.components.supportClasses.ButtonBase"/>
-    <classEntry path="uiether.components.supportClasses.Range"/>
-    <classEntry path="uiether.components.supportClasses.TrackBase"/>
-    <classEntry path="uiether.components.textClasses.CurveText"/>
-    <classEntry path="uiether.core.UIComponent"/>
-    <classEntry path="uiether.events.ComponentEvent"/>
-    <classEntry path="uiether.events.TrackBaseEvent"/>
-    <classEntry path="uiether.formatters.TinyHTMLFormatter"/>
+    <classEntry path="fr.wedesign.components.Button"/>
+    <classEntry path="fr.wedesign.components.HSlider"/>
+    <classEntry path="fr.wedesign.components.Image"/>
+    <classEntry path="fr.wedesign.components.LabelButton"/>
+    <classEntry path="fr.wedesign.components.ToggleButton"/>
+    <classEntry path="fr.wedesign.components.VSlider"/>
+    <classEntry path="fr.wedesign.components.imageClasses.Slideshow"/>
+    <classEntry path="fr.wedesign.components.supportClasses.ButtonBase"/>
+    <classEntry path="fr.wedesign.components.supportClasses.Range"/>
+    <classEntry path="fr.wedesign.components.supportClasses.TrackBase"/>
+    <classEntry path="fr.wedesign.components.textClasses.CurveText"/>
+    <classEntry path="fr.wedesign.core.UIComponent"/>
+    <classEntry path="fr.wedesign.core.ui_internal"/>
+    <classEntry path="fr.wedesign.events.ComponentEvent"/>
+    <classEntry path="fr.wedesign.events.TrackBaseEvent"/>
+    <classEntry path="fr.wedesign.formatters.TinyHTMLFormatter"/>
+    <classEntry path="fr.wedesign.media.common.ui.PlayPauseButton"/>
+    <classEntry path="fr.wedesign.media.video.player.YouTubeChromelessPlayerAdapter"/>
+    <classEntry path="fr.wedesign.media.core.IVideoPlayer"/>
+    <classEntry path="fr.wedesign.media.mvcs.VideoPlayerMediator"/>
     <classEntry path="org.robotlegs.adapters.SwiftSuspendersInjector"/>
     <classEntry path="org.robotlegs.adapters.SwiftSuspendersReflector"/>
     <classEntry path="org.robotlegs.base.CommandMap"/>
@@ -41,6 +46,9 @@
     <classEntry path="org.robotlegs.mvcs.Context"/>
     <classEntry path="org.robotlegs.mvcs.Mediator"/>
     <classEntry path="ether.media.SoundPlayer"/>
+    <classEntry path="fr.wedesign.media.video.ui.BasicControlBar"/>
+    <classEntry path="fr.wedesign.tween.interpolateColor"/>
+    <classEntry path="fr.wedesign.media.core.PlayerStateEvent"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>

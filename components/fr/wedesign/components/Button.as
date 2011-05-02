@@ -3,10 +3,10 @@
  * @class:		uiether.components.Button
  * @date:		21 avr. 2010
  */
-package uiether.components
+package fr.wedesign.components
 {
 	import flash.events.MouseEvent;
-	import uiether.components.supportClasses.ButtonBase;
+	import fr.wedesign.components.supportClasses.ButtonBase;
 	
 	
 	public class Button extends ButtonBase
@@ -18,6 +18,6 @@ package uiether.components
 			addEventListener(MouseEvent.CLICK, click, false, 0, true);
 		}
 		
-		protected function click(e:MouseEvent):void {}
+		protected function click(event:MouseEvent):void {}
 	}
 }

@@ -1,4 +1,4 @@
-package uiether.components.textClasses
+package fr.wedesign.components.textClasses
 {
 	import flash.display.Sprite;
 	import flash.text.TextField;

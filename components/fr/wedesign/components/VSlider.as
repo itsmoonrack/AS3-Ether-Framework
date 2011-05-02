@@ -3,9 +3,9 @@
  * @class:		uiether.components.VSlider
  * @date:		21 avr. 2010
  */
-package uiether.components
+package fr.wedesign.components
 {
-    import uiether.components.supportClasses.TrackBase;
+    import fr.wedesign.components.supportClasses.TrackBase;
     
     public class VSlider extends TrackBase
     {

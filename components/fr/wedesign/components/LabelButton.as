@@ -3,12 +3,12 @@
  * @class:      uiether.components.LabelButton
  * @date:       15 janv. 2011
  */
-package uiether.components
+package fr.wedesign.components
 {
     import flash.events.MouseEvent;
     import flash.text.TextField;
     
-    import uiether.components.supportClasses.ButtonBase;
+    import fr.wedesign.components.supportClasses.ButtonBase;
     
     public class LabelButton extends ButtonBase
     {

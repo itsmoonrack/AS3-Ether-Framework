@@ -3,7 +3,7 @@
  * @class:		uiether.events.ComponentEvent
  * @date:		21 avr. 2010
  */
-package uiether.events
+package fr.wedesign.events
 {
 	import flash.events.Event;
 	

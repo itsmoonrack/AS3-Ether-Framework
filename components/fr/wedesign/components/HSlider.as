@@ -3,9 +3,9 @@
  * @class:		uiether.components.HSlider
  * @date:		25 avr. 2010
  */
-package uiether.components
+package fr.wedesign.components
 {
-    import uiether.components.supportClasses.TrackBase;
+    import fr.wedesign.components.supportClasses.TrackBase;
     
     public class HSlider extends TrackBase
     {
